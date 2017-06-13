@@ -31,5 +31,5 @@ io.on('connection', function(client){
 });
 
 http.listen(9000, function (){
-  console.log('Listening on port 9000');
+  console.log('Listening on port 8888');
 })
